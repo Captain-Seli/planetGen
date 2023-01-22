@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace planetGen
 {
-    public enum PlanetType
+    public enum TerrestrialType
     {
-        Terrestrial, Jovian, AsteroidBelt
+        Barren, Forest, Grassland, Jungle, Mountain, Swamp, Tundra
     }
 }

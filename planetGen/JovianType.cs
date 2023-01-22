@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace planetGen
 {
-    public enum PlanetType
+    public enum JovianType
     {
-        Terrestrial, Jovian, AsteroidBelt
+        GasGiant, IceGiant, BrownDwarf
     }
 }
