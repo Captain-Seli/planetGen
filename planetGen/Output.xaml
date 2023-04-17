@@ -26,5 +26,16 @@
         <TextBox x:Name="Size1" HorizontalAlignment="Left" Margin="10,95,0,0" TextWrapping="Wrap" Text="Size" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
         <TextBox x:Name="Size" HorizontalAlignment="Left" Margin="144,95,0,0" TextWrapping="Wrap" Text="{Binding Path=pSize}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
         <TextBox x:Name="Type" HorizontalAlignment="Left" Margin="144,118,0,0" TextWrapping="Wrap" Text="{Binding Path=pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy" HorizontalAlignment="Left" Margin="144,141,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy1" HorizontalAlignment="Left" Margin="144,164,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy2" HorizontalAlignment="Left" Margin="144,187,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy3" HorizontalAlignment="Left" Margin="144,210,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy4" HorizontalAlignment="Left" Margin="144,233,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy5" HorizontalAlignment="Left" Margin="144,256,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy6" HorizontalAlignment="Left" Margin="144,279,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy7" HorizontalAlignment="Left" Margin="144,302,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy8" HorizontalAlignment="Left" Margin="144,325,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy9" HorizontalAlignment="Left" Margin="144,348,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="Type_Copy10" HorizontalAlignment="Left" Margin="144,371,0,0" TextWrapping="Wrap" Text="{Binding pType}" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
     </Grid>
 </Window>
